@@ -1,0 +1,9 @@
+#contact h2 {
+  font-size: 45px;
+  font-weight: 700;
+  text-align: center;
+}
+
+textarea{
+  height: 250px;
+}
